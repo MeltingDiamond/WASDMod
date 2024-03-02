@@ -2,8 +2,13 @@
 This mod lets you control the bibites with the keyboard or the mouse
 
 ## Install instructions:
+Read all the instructions before you follow them.
+
 To install, download The Bibites version 0.5.1 and replace "The Bibites_data/Managed/BibitesAssembly.dll" with the corresponding dll found here.
-Then you can start The Bibites as usual
+Then you can start The Bibites as usual.
+
+If you want to use a premade bibite open the bibites folder and download the bibite you want to use. Then open C:\Users\user\AppData\LocalLow\The Bibites\The Bibites\Bibites\Templates and paste the bibites there.
+After doing that you can spawn them as usual.
 
 ## How to make a bibite compatible with the WASD mod
 Open the bibite in a text editor, then replace the Nodes with:
